@@ -1,0 +1,80 @@
+ <section id="projects">
+  <h2>Projects<h2>
+
+<div class="project-card">
+  <h3>Student Management System</h3>
+<p>
+  A System to manage student records including persnal details,courses,
+and academic information, improving data organization and efficiency.
+<p>
+<p><strong>Tech:</strong>SQL / Programming Language</p>
+<a
+href="https://github.com/reshma-nair99/Student-Management-System.git"
+target="_blank"
+View on GitHub
+</a>
+</div>
+
+<div class="projects-card">
+ <h3>Railway Management System</h3>
+<p>
+  A system to developed to manage railway operations including
+train details, passenger information, and booking records.
+</p>
+<p><strong>Tech:</strong>SQL / Programming Language</p>
+<a
+href="https://github.com/reshma-nair99/Railway-Management-System"
+target="_blank">
+  View on GitHub
+</a>
+</div>
+
+<div class="projects-card">
+ <h3>Library Management System(SQL)</h3>
+<p>
+  A database-based application to manage books,members,and issue/return
+      operations using SQL queries.
+</p>
+<p><strong>Tech:</strong>SQL,DBMS</p>
+<a
+href="
+https://github.com/reshma-nair99/Library-Management-System-SQL.git"
+target="_blank">
+    View on GitHub
+</a>
+</div>
+
+<div class="projects.card">
+<h3>SQL Calculator App</h3>
+<p>
+    A simple calculator application built using SQL logic to perform 
+basic arithmetic operations.
+</p>
+<p><strong>Tech:</strong>SQL </p>
+<a
+href="https://github.com/reshma-nair99/sql-Calculator-app.git"
+target="_blank"
+    View on GitHub
+</a/
+</div>
+
+</section>
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
